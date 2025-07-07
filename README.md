@@ -22,7 +22,7 @@ Um projeto simples em HTML, CSS e JavaScript para converter valores de Real (BRL
 
 ```bash
 # Clone este repositório
-git clone https://github.com/luciano-veiga/conversor-moedas.git
+git clone https://github.com/luciano-veiga/conversor_de_moedas.git
 
 # Acesse a pasta
 cd conversor-moedas
